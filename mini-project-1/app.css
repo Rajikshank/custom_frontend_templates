@@ -1,0 +1,32 @@
+body{
+    background-color: #fdf9fd;
+    font-family: 'Space Mono',monospace;
+}
+
+h1{
+font-size: 100px;
+font-weight: 400px;
+line-height: 1;
+
+}
+
+h2{
+    font-size: 50px;
+
+}
+
+p{
+    font-size: 20px;
+}
+
+div{
+    width:55% ;
+    margin-left: 100px;
+    margin-top: 300px;
+
+}
+span{
+    text-shadow:0 -6.25px blue ,
+    0 -12.50px cyan, 
+    0 6.25px red,0 12.50px pink  ;
+}
