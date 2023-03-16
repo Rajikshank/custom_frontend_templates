@@ -6,4 +6,6 @@
    text-transform: capitalize;
    text-decoration-line: line-through;
    text-decoration-color: cyan;
+   text-decoration-style: wavy;
+   text-decoration: red wavy line-through;
   }
